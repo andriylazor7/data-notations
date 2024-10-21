@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportation>
+  <transport type="bicycle" usage="daily">
+      <brand>Giant</brand>
+      <model>Escape 3</model>
+      <year>2020</year>
+      <color>Black</color>
+  </transport>
+  <transport type="tram" usage="commuting">
+      <route>4</route>
+      <fare currency="PLN">2</fare>
+      <frequency unit="minutes">15</frequency>
+  </transport>
+  <transport type="car" usage="occasional">
+      <brand>Toyota</brand>
+      <model>Corolla</model>
+      <year>2018</year>
+      <fuelType>Gasoline</fuelType>
+  </transport>
+</transportation>
