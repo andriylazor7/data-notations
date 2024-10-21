@@ -53,5 +53,30 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Patagonia",
+        "founded": 1973,
+        "headquarters": "Ventura, California, USA",
+        "employees": 2300,
+        "products": [
+            "Outdoor Clothing",
+            "Footwear",
+            "Camping Gear",
+            "Backpacks",
+            "Sportswear"
+        ]
+    },{
+        "name": "Levi's",
+        "founded": 1853,
+        "headquarters": "San Francisco, California, USA",
+        "employees": 15000,
+        "products": [
+            "Denim",
+            "Jeans",
+            "Jackets",
+            "Casual Wear",
+            "Accessories"
+        ]
     }
 ]

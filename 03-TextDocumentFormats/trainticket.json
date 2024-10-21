@@ -1,0 +1,10 @@
+{
+  "TicketType": "Single",
+  "Class": "First",
+  "DepartureStation": "London Paddington",
+  "ArrivalStation": "Edinburgh Waverley",
+  "Date": "October 25 2024",
+  "Time": "10:00 AM",
+  "SeatNumber": "Carriage B, Seat 24"
+
+}
