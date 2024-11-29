@@ -1,0 +1,109 @@
+h1, h2, p {
+  font-family: sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  background-color: bisque;
+}
+
+h2 {
+  background-color: aqua;
+  color:black
+}
+
+
+table {
+  margin: 20px auto;
+  font-size: 1.3rem;
+  border-collapse: collapse;
+}
+
+th, td {
+  color:darkcyan;
+  border: 1px solid black;
+  padding: 4px;
+}
+
+form {
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  color:darkcyan;
+}
+
+div {
+  margin: 17px;
+}
+
+form input {
+  font-size: 1.2rem;
+}
+
+form select {
+  font-size: 1.2rem;
+}
+
+form textarea:focus {
+  outline: none;
+}
+
+form .button {
+  background-color:aqua;
+  border: none;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+form .button:hover {
+  background-color: rgb(1, 190, 190)
+}
+
+a {
+  text-decoration: none;
+  color:blueviolet;
+}
+
+.FirstSection {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color:darkgreen
+}
+
+.SecondSection {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  color:blue
+}
+
+.ThirdSection {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  color:gray
+}
+
+.FourthSection {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.FifthSection {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.SixthSection {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+
+
+
+
+
+
+
+

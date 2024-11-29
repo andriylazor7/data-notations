@@ -1,0 +1,38 @@
+h2 {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+
+div {
+  margin-bottom: 30px;
+  font-family: sans-serif;
+  justify-content: center;
+}
+
+.Submit input {
+  font-size: 2rem;
+  width: 250px;
+  height: 55px;
+  background-color: green;
+  color:white;
+}
+
+input {
+  border: 1px solid;
+  border-radius: 4px;
+  width: 40%;
+}
+
+select {
+  border: 1px solid;
+  border-radius: 4px;
+  width: 40%;
+}
+
+textarea {
+  border: 1px solid;
+  border-radius: 4px;
+  width: 60%;
+}
